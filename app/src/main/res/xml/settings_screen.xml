@@ -1,0 +1,14 @@
+<PreferenceScreen
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+
+    <Preference
+        android:key="goal"
+        android:title="@string/goal"></Preference>
+
+
+
+</PreferenceScreen>
